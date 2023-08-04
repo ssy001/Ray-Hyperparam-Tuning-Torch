@@ -1,0 +1,11 @@
+unidecode
+tqdm
+requests
+filelock
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+ray
